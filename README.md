@@ -4,7 +4,7 @@
 
 > Used Programming languages/Libraries
 [![Language](https://img.shields.io/badge/Java-18.9-8f00b3.svg)](https://www.java.com/en/)
-[![Library](https://img.shields.io/badge/Android Studio-3.2.1-6600cc.svg)](https://opencv.org/)
+[![Library](https://img.shields.io/badge/AndroidStudio-3.2.1-6600cc.svg)](https://opencv.org/)
 
 <p align="center" >
 <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.binpress.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fandroid_recyclerview_cardview.png&imgrefurl=https%3A%2F%2Fwww.binpress.com%2Fandroid-recyclerview-cardview-guide%2F&docid=GQVWZEgyraCr8M&tbnid=d0BWzg_j_qfRyM%3A&vet=10ahUKEwilipuHjpHgAhXbe30KHVwCCp8QMwhgKAswCw..i&w=442&h=734&bih=554&biw=1163&q=recycler%20view%20in%20android&ved=0ahUKEwilipuHjpHgAhXbe30KHVwCCp8QMwhgKAswCw&iact=mrc&uact=8" height="300" width="600">
