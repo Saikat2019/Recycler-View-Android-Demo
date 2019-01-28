@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f71753f7</color>
+    <color name="colorPrimaryDark">#f6020d4e</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="textColor">#fff</color>
+    <color name="recyclerBG">#ae5677f1</color>
+    <color name="textViewBG">#a25d6eed</color>
+    <color name="textViewStroke">#063048</color>
+</resources>

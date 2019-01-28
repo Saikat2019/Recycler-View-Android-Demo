@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Don't use any kind of layout like constrained layout / relative
+ layout here, that will cost a casting error at line no 43 in
+  MyAdapter.xml , just use TextView -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/myText"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:text="abc"
+    android:textAlignment="center"
+    android:textSize="40sp"
+    android:textColor="@color/textColor"
+    android:background="@drawable/round_corners"
+    android:layout_margin="10dp"
+    app:layout_constraintCircleRadius="10dp" />
+
